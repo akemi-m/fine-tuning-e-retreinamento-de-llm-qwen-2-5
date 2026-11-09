@@ -1,0 +1,1 @@
+# fine-tuning-e-retreinamento-de-llm-qwen-2-5
